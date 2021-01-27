@@ -18,3 +18,4 @@ C:\Users\Noral\Desktop\Ejemplo Git\Git_Ejemplo\Git_Ejemplo\obj\Debug\Git_Ejemplo
 C:\Users\Noral\Desktop\Ejemplo Git\Git_Ejemplo\Git_Ejemplo\obj\Debug\Git_Ejemplo.csproj.CoreCompileInputs.cache
 C:\Users\Noral\Desktop\Ejemplo Git\Git_Ejemplo\Git_Ejemplo\obj\Debug\Git_Ejemplo.exe
 C:\Users\Noral\Desktop\Ejemplo Git\Git_Ejemplo\Git_Ejemplo\obj\Debug\Git_Ejemplo.pdb
+C:\Users\Noral\Desktop\Ejemplo Git\Git_Ejemplo\Git_Ejemplo\obj\Debug\Git_Ejemplo.Proveedores.resources
